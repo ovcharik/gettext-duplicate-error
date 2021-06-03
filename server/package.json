@@ -1,0 +1,15 @@
+{
+  "name": "gettext-duplicate-errors-server",
+  "description": "Highlight duplicate message definition in gettext .po files",
+  "version": "1.0.0",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "@types/pegjs": "^0.10.2",
+    "gettext-po-parser": "^1.0.0",
+    "vscode-languageserver": "^7.0.0",
+    "vscode-languageserver-textdocument": "^1.0.1"
+  },
+  "scripts": {}
+}

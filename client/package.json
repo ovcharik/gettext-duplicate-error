@@ -1,0 +1,16 @@
+{
+  "name": "gettext-duplicate-errors-client",
+  "description": "Highlight duplicate message definition in gettext .po files",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "dependencies": {
+    "vscode-languageclient": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/vscode": "^1.56.0",
+    "vscode-test": "^1.5.0"
+  },
+  "scripts": {}
+}
