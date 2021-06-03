@@ -2,7 +2,7 @@
   "name": "gettext-duplicate-error",
   "displayName": "gettext-duplicate-error",
   "description": "Highlight duplicate message definition in gettext .po files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "ovcharik",
   "author": {
     "name": "Maksim Ovcharik",
